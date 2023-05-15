@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"path": "../HTML/F8-HmlCss-02"
+		},
+		{
+			"path": "../HTML/f8-HtmlCss-01-main"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "F8-HmlCss-02"
+    }
+}
