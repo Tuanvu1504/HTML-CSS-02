@@ -44,12 +44,11 @@ li {
 }
 
 /* ====HEADER==== */
-.header.fiexd{
+.header.fiexd {
     position: sticky;
     top: -28px;
     z-index: 1;
 }
-
 
 .header,
 .hero {
@@ -116,8 +115,8 @@ li {
 
 .hero-summary {
     position: absolute;
-    bottom: 60px;
-    left: 300px;
+    right: -8px;
+    bottom: 48px;
     width: 270px;
     height: 244px;
     background: #ffffff;
