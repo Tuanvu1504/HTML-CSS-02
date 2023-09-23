@@ -108,6 +108,7 @@ li {
 .hero {
     padding: 65px 0;
     background-color: #fffcf4;
+    font-size: 2px;
 }
 
 .hero .hero-media {
